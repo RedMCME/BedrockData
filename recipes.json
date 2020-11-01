@@ -10902,30 +10902,6 @@
                     "damage": -1
                 },
                 "B": {
-                    "id": 54,
-                    "damage": -1
-                }
-            },
-            "output": [
-                {
-                    "id": 410
-                }
-            ],
-            "priority": 0,
-            "shape": [
-                "A A",
-                "ABA",
-                " A "
-            ]
-        },
-        {
-            "block": "crafting_table",
-            "input": {
-                "A": {
-                    "id": 265,
-                    "damage": -1
-                },
-                "B": {
                     "id": 61,
                     "damage": -1
                 },
